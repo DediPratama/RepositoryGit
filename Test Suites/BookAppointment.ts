@@ -21,13 +21,13 @@
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>14d98e7b-4ac8-4e28-8ce7-394001d188f0</variableId>
+         <variableId>de64f21e-8253-4f6a-8aa1-c91ce0c4888c</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>a97344e7-5f9c-4936-92a2-d85e5463f3c9</variableId>
+         <variableId>35d87f63-0018-4469-ac2a-c7e0b4d49660</variableId>
       </variableLink>
    </testCaseLink>
    <testCaseLink>
